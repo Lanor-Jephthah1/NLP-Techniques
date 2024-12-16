@@ -4,7 +4,7 @@ This repository contains a collection of Natural Language Processing (NLP) techn
 
 ## Contents
 
-- **Text Preprocessing**: Learn how to clean and prepare text data for NLP tasks, including steps like tokenization, lowercasing, punctuation removal, stopword removal, and lemmatization. [Check out the example](link_to_preprocessing_example).
+- **Text Preprocessing**: Learn how to clean and prepare text data for NLP tasks, including steps like tokenization, lowercasing, punctuation removal, stopword removal, and lemmatization. [Check out the example](https://github.com/Lanor-Jephthah1/NLP-Techniques/tree/58ca723b68482d16449274d5baa5c537e1154c00/NLP%20Text%20Preprocessing).
 
 - **POS Tagging**: Understand how to perform Part-of-Speech tagging to identify the grammatical structure of sentences. This section includes examples and explanations of popular POS tagging techniques and tools.
 
